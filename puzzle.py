@@ -208,14 +208,7 @@ def BidirectionalSearch(state):
 
 
 def main():
-        #nextdata = LoadFromFile("newtestfile.txt")
-        #answer1 = BidirectionalSearch(nextdata)
-        #answer1 = BFS(nextdata)
-        #answer1 = DFS(nextdata)
-        #print('the path we took is ',answer1)
-
-                        
-
+        pass
 
         
 if __name__ == "__main__":
